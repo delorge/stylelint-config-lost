@@ -1,3 +1,7 @@
+# 0.0.2
+
+Publish NPM package
+
 # 0.0.1
 
 Add atrules support:
