@@ -2,6 +2,8 @@
 
 > Lost grid config for stylelint.
 
+[![Build Status](https://travis-ci.org/delorge/stylelint-config-lost.svg?branch=master)][ci]
+
 Tweaks [stylelint] rules to accept [lost grid] specific syntax.  
 Can be used with any other config, e.g. [stylelint-config-standard].
 
