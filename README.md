@@ -5,6 +5,12 @@
 Tweaks [stylelint] rules to accept [lost grid] specific syntax.  
 Can be used with any other config, e.g. [stylelint-config-standard].
 
+## Installation
+
+```
+npm install stylelint-config-lost --save-dev
+```
+
 ## Usage
 
 ```json
