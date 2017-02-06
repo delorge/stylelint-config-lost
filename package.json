@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-lost",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Lost grid config for stylelint",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
     "lost",
     "lost-grid"
   ],
-  "author": "I. Serniaev",
+  "author": {
+    "name": "Ivan Serniaev",
+    "url": "https://github.com/delorge"
+  },
   "license": "MIT",
   "devDependencies": {
     "babel": "^6.5.2",
