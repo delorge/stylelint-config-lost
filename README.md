@@ -31,6 +31,7 @@ npm install stylelint-config-lost --save-dev
 
 MIT © [Ivan Serniaev](https://github.com/delorge)
 
+[ci]: https://travis-ci.org/delorge/stylelint-config-lost
 [stylelint]: https://github.com/stylelint/stylelint
 [stylelint-config-standard]: https://github.com/stylelint/stylelint-config-standard
 [Lost grid]: https://github.com/peterramsing/lost
