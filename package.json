@@ -15,7 +15,8 @@
   ],
   "author": {
     "name": "Ivan Serniaev",
-    "url": "https://github.com/delorge"
+    "url": "https://github.com/delorge",
+    "email": "wazza.ivan@gmail.com"
   },
   "license": "MIT",
   "devDependencies": {
