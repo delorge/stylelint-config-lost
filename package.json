@@ -18,6 +18,9 @@
     "url": "https://github.com/delorge",
     "email": "wazza.ivan@gmail.com"
   },
+  "files": [
+    "index.js"
+  ],
   "license": "MIT",
   "devDependencies": {
     "babel": "^6.5.2",
