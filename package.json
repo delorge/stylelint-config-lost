@@ -7,6 +7,10 @@
     "lint": "./node_modules/.bin/eslint src",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delorge/stylelint-config-lost.git"
+  },
   "keywords": [
     "stylelint",
     "stylelint-config",
