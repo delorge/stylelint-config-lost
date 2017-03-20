@@ -1,3 +1,6 @@
+# 0.0.3
+Add `package` section to `package.json`
+
 # 0.0.2
 
 Publish NPM package
